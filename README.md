@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aswin chandran
 - 👀 I’m interested in web deveopment
-- 🌱 I’m currently learning python django
+- 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me aswinchandran7025@gmail.com
 
 
